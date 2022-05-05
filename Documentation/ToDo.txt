@@ -1,0 +1,6 @@
+To Do:
+Translate/refactor old C code
+Monte-Carlo Agent
+A3C Agent
+C# winapp frontend
+HTML webpage frontend
