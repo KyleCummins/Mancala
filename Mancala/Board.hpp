@@ -18,7 +18,7 @@ namespace Mancala
 		/*
 		Name: Board
 		Description: Initializes all relevant board information with starting values
-		Input: Number of pits per player as numPits, number of starting seeds per pit as numSeeds
+		Input: Pits per player as int, starting seeds per pit as int
 		Output: None
 		*/
 		Board(int numPits, int numSeeds);
