@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "GameUI.h"
+#include "GameUI.hpp"
 
 namespace Mancala
 {
@@ -14,6 +14,25 @@ namespace Mancala
 	{
 	public:
 
+		/*
+		Name: displayBoard
+		Description: Updates the interface with current board state
+		Input: Current board state as Board
+		Output: None
+		*/
+		virtual void displayBoard(Board curBoard)
+		{
+		}
+
+		/*
+		Name: getInput
+		Description: Gets a move from a human player through the interface
+		Input: None
+		Output: Player move as int
+		*/
+		virtual int getInput()
+		{
+		}
 	};
 }
 
