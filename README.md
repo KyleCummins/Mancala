@@ -1,7 +1,7 @@
 # MancalaCPP
 An new version of my mancala AI project, rebuilt from the ground up in C++ utilizing object oriented design principles. I hope to eventually add more varieties of AI for comparison and personal learning. 
 
-Credit to "The Ancienct Game and the AI" by Erik Langenborg for inspiration.
+Credit to "The Ancient Game and the AI" by Erik Langenborg for inspiration.
 
 To Do:
 -Basic UML
